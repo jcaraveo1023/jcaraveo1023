@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
   - Linux Systems Administration
   - Virtualization technologies such as Docker
-  - Expanding my skillset in clound computing toleverage platforms such as AWS, GCP, and Inode
+  - Expanding my skillset in cloud computing to leverage platforms such as AWS, GCP, and Inode
 - 🌱 I’m currently working 
   - Broadening my aptitude in all afforementioned  disciplines.
 - 💞️ I’m looking to collaborate 
