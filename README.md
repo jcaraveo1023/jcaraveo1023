@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @jcaraveo1023
 - 👀 I’m interested in:
   - Linux Systems Administration
-  - Virtualization technologies such as Docker
-  - Expanding my skillset in cloud computing to leverage platforms such as AWS, GCP, and Inode
+  - Virtualization technologies such as VmWare Hyper-V and Docker
+  - Expanding my skillset in cloud computing to leverage platforms such as Microsoft Azure,AWS, GCP, and Linode
 - 🌱 I’m currently working 
   - Broadening my aptitude in all afforementioned  disciplines.
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to learn more about:
   - Linux/UNIX Shell scripting
   - Ansible Playbooks
   - IaC (Infrastructure as Code)
+  - Automation
 - 📫 How to reach me
   - email: jcaraveo10@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-caraveo-84aba159
