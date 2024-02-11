@@ -9,7 +9,7 @@
   - Linux/UNIX Shell scripting
   - Ansible Playbooks
   - IaC (Infrastructure as Code)
-  - Automation
+  - Robotic Proces Automation
 - 📫 How to reach me
   - email: jcaraveo10@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-caraveo-84aba159
